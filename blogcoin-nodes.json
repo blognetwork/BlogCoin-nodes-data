@@ -1,0 +1,18 @@
+{
+  "nodes": [
+      {
+      "name": "sniperviperman's node (seed) - 0 BLOG fee",
+      "url": "node.trtl.se",
+      "port": 54313,
+      "ssl": false,
+      "cache": false
+    },   
+    {
+      "name": "def's node (seed) - 0 BLOG fee",
+      "url": "mine2.live",
+      "port": 54313,
+      "ssl": false,
+      "cache": false
+    }
+  ]
+}
