@@ -1,14 +1,14 @@
 {
   "nodes": [
       {
-      "name": "sniperviperman's node (seed) - 0 BLOG Fee",
+      "name": "sniperviperman's node - 0 BLOG Fee",
       "url": "be.stx.nl",
       "port": 54313,
       "ssl": false,
       "cache": false
     },   
     {
-      "name": "def's node (seed) - 0 BLOG Fee",
+      "name": "def's node - 0 BLOG Fee",
       "url": "mine2.live",
       "port": 54313,
       "ssl": false,
